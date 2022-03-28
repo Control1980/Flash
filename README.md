@@ -1,2 +1,2 @@
 # Flash修复工具
-<img src='https://static.flash.cn/backend/help/index/carousel/images/37f6a40a7ea9c6dd.jpg' width='500' height='100'>
+<img src='https://soft.flash.cn/flashcenter/images/lb-title.png'>
